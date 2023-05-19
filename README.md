@@ -7,7 +7,6 @@
 
 
 ## Установка приложения!
-[image](https://github.com/twinklecs/AccountingOfCartridges/assets/61462366/cac0199e-14d7-458b-9f29-74572b540ba1)
 
 
 1. Скачайте архив с приложением с GitHub или другого источника.
