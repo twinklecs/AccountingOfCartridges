@@ -23,10 +23,10 @@ namespace AccountingOfCartridges.AppDataFiles
         public string SerialNumber { get; set; }
         public int StatusId { get; set; }
         public string FIO { get; set; }
+
+        public string StringType { get { return Type.Title; } }
     
         public virtual Status Status { get; set; }
         public virtual Type Type { get; set; }
-
-        public string StringType { get { return Type.Title; } }
     }
 }

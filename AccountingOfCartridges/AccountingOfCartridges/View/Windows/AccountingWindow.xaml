@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AccountingOfCartridges.View.Windows"
         mc:Ignorable="d"
-        Title="Окно учёта"
         Height="650" Width="1100"
         Background="Gray">
     
